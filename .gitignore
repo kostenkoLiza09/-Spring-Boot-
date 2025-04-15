@@ -1,0 +1,28 @@
+# Java class files
+*.class
+
+# Log files
+*.log
+
+# Maven target directory
+/target/
+
+# IntelliJ IDEA files
+.idea/
+*.iml
+*.iws
+*.ipr
+
+# VS Code files (если ты используешь VS Code)
+.vscode/
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.tmp
+*.swp
+
+# Build output
+/out/
